@@ -1,0 +1,39 @@
+.naslov {
+    background-image: url(pattern.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: khaki;
+    width: 100%;
+}
+
+.naslov2 {
+    background-color: mediumspringgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color: white;
+    margin: 40px 0px;
+}
+
+.slika {
+    margin-top: 40px;
+}
+
+#color1 {
+    background-color: lightcoral;
+}
+
+.bold {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+.malinaslov {
+    font-weight: bold;
+    font-size: larger;
+}
+
+#color2 {
+    background-color: skyblue;
+}
